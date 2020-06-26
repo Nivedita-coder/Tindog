@@ -1,2 +1,2 @@
-# Tindo
+# Tindog
 using bootstrap framework.
